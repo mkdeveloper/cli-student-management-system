@@ -1,4 +1,4 @@
-**Cli Based Currency Converter**
+**Cli Based Student Management System**
 
 There are Two ways to run this Application.
 
