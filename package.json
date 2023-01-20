@@ -1,6 +1,6 @@
 {
-  "name": "mk-sms",
-  "version": "1.0.0",
+  "name": "mk-student-ms",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "type": "module",
